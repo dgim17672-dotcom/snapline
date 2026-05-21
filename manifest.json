@@ -1,0 +1,22 @@
+{
+  "name": "SnapLine",
+  "short_name": "SnapLine",
+  "description": "AI Photo Summary - Snap a photo to get instant AI summaries of signs, menus, and documents.",
+  "start_url": "/snapline/snapline.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F7FF",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
